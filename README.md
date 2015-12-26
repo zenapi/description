@@ -46,35 +46,36 @@ Challenge: Just building APIs without solid reason is waste of time and money. O
 
 Solution: Zen API approach utilizes Lean canvas based API model Canvas for identifying key elements for your APIs and create accurate business plans fast. Often best approach is to organize 1 or 2 days long Zen API Jam to build suitable business models and API mockups to test plans with selected customers. Zen API Jam is facilitated workshop build around service design tools and practices. 
 
-Case example and testimony
-For more information conctact
-Firstname Lastname
-API -economy  consultant
-+358 50 345 3456
+**For more information contact:**
+* Jarkko Moilanen
+* API -economy  consultant
+* +358 50 346 0499
 
-    Tools for API life cycle management
+## Tools for API life cycle management
 
 Challenge: APIs without life cycle planning and tools...no needed skills for API development or maintenance. 
 
 Solution: We provide tools for API life cycle management from API design to retirement with developer love. Our solutions are flexible and enable utilization of 3rd party tools like waffle.io, JIRA, API Umbrella, Swagger and Github. Most of our solutions are open source driven and we contribute upstream to share back to community. You can test and use open source driven apinf.io  API -management platform for free. Our processes support Open API definition  fostered by Linux Foundation and leading API economy companies. We also proviide in-service training for APIOps and DevOps practices to speed up your API development and update practical skills of your staff. 
 
-Case example and testimony
-For more information conctact
-Firstname Lastname
-API -economy  consultant
-+358 50 345 3456
+**For more information contact:**
+* Jarkko Moilanen
+* API -economy  consultant
+* +358 50 346 0499
 
-    Design Driven API development and DevOps training
+## Design Driven API development and DevOps training
 
 Your developers are most likely experts in general service and app development. Currently APIs and API economy are rising and enabling new kind of business. We offer high quality real world cases driven combined APIOps and DevOps training for your staff. Our partner is one of the leading Universities of Applied Sciences in Finland. 
 
-Case example and testimony
-For more information conctact
-Firstname Lastname
-API -economy  consultant
-+358 50 345 3456
+**For more information contact:**
+* Jarkko Moilanen
+* API -economy  consultant
+* +358 50 346 0499
 
-    APIverse.io 
+## APIverse - API specs sharing service
 
 We believe in sharing knowledge, examples and cooperation. APIverse service is for sharing your API descriptions (RAML, Swagger, API  Blueprint) and  API Model Canvas to the API community. With help of the community, you can get feedback and  learn from others experiences. Some of the designs are free, some private, some shared under CC license and some might be even commercial. This is open source project and managed jointly with apis.guru. 
 
+**For more information contact:**
+* Jarkko Moilanen
+* API -economy  consultant
+* +358 50 346 0499
