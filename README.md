@@ -5,7 +5,7 @@ Creating low-barrier, compact, customer need fit and easy to use APIs requires c
 ##Combination of technology, business planning and practices
 In Zen of API economy we combine efficient API life cycle management tools, state  of the art development tools and agile business planning methods. 
 
-##In short Zen of API economy will MAXIMIZE
+###In short Zen of API economy will MAXIMIZE
 * customer involvement
 * win-win situation for all
 * customer needs fit
@@ -13,7 +13,7 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 * utilize benefits of Lean approach
 * connection between product (API) and business strategy
 
-##At the same time Zen API approach MINIMIZE
+###At the same time Zen API approach will MINIMIZE
 * API development cost and time
 * manual work in API development
 * time to market
