@@ -20,7 +20,7 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 * customer needs validation time
 
 
-##Zen API is based on utilization of:
+###Zen API is based on utilization of:
 * API Model Canvas
 * Efficient API life cycle management
 * Design-First driven practices
