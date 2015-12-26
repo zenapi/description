@@ -31,7 +31,9 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 
 ![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi-process.png)
 
-Read more from Detailed Zen API Design Process.[TODO]
+* Read more from Detailed Zen API Design Process.[TODO]
+* Read more from Detailed Zen API Lean Agile Implementation Process.[TODO]
+* Read more from Detailed Zen API Manage Share collaborate Process.[TODO]
 
 ## Services
 ### 1. Jump to API economy with new business strategy
