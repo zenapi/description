@@ -32,10 +32,16 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 
 ## Zen API Processes
 
-![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/apizen-top-level.png)
+![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi1.png)
 
 * Read more from [Detailed Zen API Design Process](https://github.com/zenapi/description/blob/master/zen-api-design-process.md).[TODO]
+
+![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi2.png)
+
 * Read more from Detailed Zen API Lean Agile Implementation Process.[TODO]
+
+![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi3.png)
+
 * Read more from Detailed Zen API Manage Share collaborate Process.[TODO]
 
 ## Services
