@@ -29,7 +29,7 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 
 ## API Design Process
 
-![Design process](https://cloud.githubusercontent.com/assets/1927158/12005832/f17fa706-abc1-11e5-8e57-e736ccae2b7f.png)
+![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi-process.png)
 
 
 ## Services
