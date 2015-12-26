@@ -1,4 +1,4 @@
-#Zen of API economy
+#Zen of API economy (Zen API)
 
 Creating low-barrier, compact, customer need fit and easy to use APIs requires combination of tech and business skills. Anyone can create API with current tools available, but it's harder to make your API profitable, attractive and loved by developers.  API without proper business plan is like a car without steering wheel. Also, having good business plan without efficient API development tools and practices is waste of time. Zen of API economy is about building bridge between customer needs, API builders and business strategy.
 
@@ -20,7 +20,7 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 * customer needs validation time
 
 
-Zen  API is based on utilization of:
+##Zen API is based on utilization of:
 * API Model Canvas
 * Efficient API life cycle management
 * Design-First driven practices
@@ -35,11 +35,10 @@ Challenge: Current winners of economy are based on API-driven business models. A
 
 Solution: We have experience in building API-strategies for public and private sector organizations. Zen API Camp is 1 or 2 days long facilitated workshop, in which your API-strategy can be build or updated. Zen  API Camp utilizes service design Jam methods and practices, which provide natural tools for co-operation and innovation. 
 
-Case example and testimony
-For more information conctact
-Firstname Lastname
-API -economy  consultant
-+358 50 345 3456
+**For more information contact:**
+* Jarkko Moilanen
+* API -economy  consultant
+* +358 50 346 0499
 
 ## Connect API development to business strategy
 
