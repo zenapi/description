@@ -1,4 +1,4 @@
-#Zen of API Economy (Zen API)
+#Zen of API Economy
 
 ![Zen API](https://raw.githubusercontent.com/zenapi/description/master/images/zen-api-logo.png)
 
