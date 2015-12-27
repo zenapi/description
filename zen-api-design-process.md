@@ -3,14 +3,14 @@
 ## Detailed process
 ![detailed process](https://github.com/zenapi/description/blob/master/images/zenapi-process.png)
 
-### 1. Business strategy
+### 1. Customer needs
 
-### 2. 
+### 2. Business strategy
 
-### 3. 
+### 3. API-Strategy
 
-### 4. 
+### 4. API Business models
 
-### 5. 
+### 5. Define APIs in machine readable format
 
-### 6.
+### 6. Generate, test, iterate
