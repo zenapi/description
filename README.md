@@ -1,6 +1,6 @@
 #Zen of API Economy
 
-![Zen API](https://raw.githubusercontent.com/zenapi/description/master/images/zen-api-logo.png)
+![Zen API](https://raw.githubusercontent.com/zenofapi/description/master/images/zen-api-logo.png)
 
 Creating low-barrier, compact, customer need fit and easy to use APIs requires combination of tech and business skills. Anyone can create API with current tools available, but it's harder to **make your API profitable, attractive and loved by developers**.  
 
@@ -34,20 +34,20 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 
 ## Zen API Processes
 
-![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi1.png)
+![Design process](https://raw.githubusercontent.com/zenofapi/description/master/images/zenapi1.png)
 
-* Read more from [Detailed Zen of API - Lean Design Process](https://github.com/zenapi/description/blob/master/zen-api-design-process.md).
+* Read more from [Detailed Zen of API - Lean Design Process](https://github.com/zenofapi/description/blob/master/zen-api-design-process.md).
 
-![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi2.png)
+![Design process](https://raw.githubusercontent.com/zenofapi/description/master/images/zenapi2.png)
 
-* Read more from [Detailed Zen of API - Lean Agile Implementation Process](https://github.com/zenapi/description/blob/master/zen-api-lean-agile-implementation.md).
+* Read more from [Detailed Zen of API - Lean Agile Implementation Process](https://github.com/zenofapi/description/blob/master/zen-api-lean-agile-implementation.md).
 
-![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi3.png)
+![Design process](https://raw.githubusercontent.com/zenofapi/description/master/images/zenapi3.png)
 
-* Read more from [Detailed Zen of API - Manage Share collaborate Process](https://github.com/zenapi/description/blob/master/zen-api-manage-share-collaborate.md).
+* Read more from [Detailed Zen of API - Manage Share collaborate Process](https://github.com/zenofapi/description/blob/master/zen-api-manage-share-collaborate.md).
 
-![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi4.png)
-* Read more from [Detailed Zen of API - Retirement Process](https://github.com/zenapi/description/blob/master/zen-api-retirement.md).
+![Design process](https://raw.githubusercontent.com/zenofapi/description/master/images/zenapi4.png)
+* Read more from [Detailed Zen of API - Retirement Process](https://github.com/zenofapi/description/blob/master/zen-api-retirement.md).
 
 ## Services
-Read more about [services which will help you utilize the Zen of API Economy](https://github.com/zenapi/description/blob/master/services.md). 
+Read more about [services which will help you utilize the Zen of API Economy](https://github.com/zenofapi/description/blob/master/services.md). 
