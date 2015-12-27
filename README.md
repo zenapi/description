@@ -2,7 +2,9 @@
 
 ![Zen API](https://raw.githubusercontent.com/zenapi/description/master/images/zen-api-logo.png)
 
-Creating low-barrier, compact, customer need fit and easy to use APIs requires combination of tech and business skills. Anyone can create API with current tools available, but it's harder to make your API profitable, attractive and loved by developers.  API without proper business plan is like a car without steering wheel. Also, having good business plan without efficient API development tools and practices is waste of time. Zen of API economy is about building bridge between customer needs, API builders and business strategy.
+Creating low-barrier, compact, customer need fit and easy to use APIs requires combination of tech and business skills. Anyone can create API with current tools available, but it's harder to **make your API profitable, attractive and loved by developers**.  
+
+**API without proper business plan is like a car without steering wheel.** Also, having good business plan without efficient API development tools and practices is waste of time. Zen of API economy is about building bridge between customer needs, API builders and business strategy.
 
 ##Combination of technology, business planning and practices
 In Zen of API economy we combine efficient API life cycle management tools, state  of the art development tools and agile business planning methods. 
