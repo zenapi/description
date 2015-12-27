@@ -50,3 +50,12 @@ We believe in sharing knowledge, examples and cooperation. APIverse service is f
 * Jarkko Moilanen
 * API -economy  consultant
 * +358 50 346 0499
+
+
+### 6. Zen API Jam
+Jamming is about getting together and enabling thinking outside the box! Use Jam events to innovate new APIs, build or iterate API-strategy, define API specs with customers and other key participants. We have extensive amount of experience in organizing successful Jam events. The length of Zen API Jam can be hours or even days depending of ambitions and aims.  
+
+**For more information contact:**
+* Jarkko Moilanen
+* API -economy  consultant
+* +358 50 346 0499
