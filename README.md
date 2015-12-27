@@ -23,10 +23,9 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 * time to market
 * customer needs validation time
 
-
 ###Zen of API economy is based on utilization of:
 * API Model Canvas
-* Efficient API life cycle management
+* Efficient API life cycle management (including retirement)
 * Design-First driven practices
 * De facto industry standard for describing  API functionality
 * automation with DevOps  practices
@@ -45,6 +44,10 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 ![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi3.png)
 
 * Read more from [Detailed Zen of API - Manage Share collaborate Process](https://github.com/zenapi/description/blob/master/zen-api-manage-share-collaborate.md).
+
+* Read more from [Detailed Zen of API - Retirement process Process](https://github.com/zenapi/description/blob/master/zen-api-retirement.md).
+
+Don't forget that APIs need to retire too. 
 
 ## Services
 Read more about [services which will help you utilize the Zen of API Economy](https://github.com/zenapi/description/blob/master/services.md). 
