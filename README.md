@@ -45,9 +45,8 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 
 * Read more from [Detailed Zen of API - Manage Share collaborate Process](https://github.com/zenapi/description/blob/master/zen-api-manage-share-collaborate.md).
 
+![Design process](https://raw.githubusercontent.com/zenapi/description/master/images/zenapi4.png)
 * Read more from [Detailed Zen of API - Retirement process Process](https://github.com/zenapi/description/blob/master/zen-api-retirement.md).
-
-Don't forget that APIs need to retire too. 
 
 ## Services
 Read more about [services which will help you utilize the Zen of API Economy](https://github.com/zenapi/description/blob/master/services.md). 
