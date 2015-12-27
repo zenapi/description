@@ -1,4 +1,4 @@
-# Zen API - Lean Design Process
+# Zen of API - Lean Design Process
 
 ## Detailed process
 ![detailed process](https://github.com/zenapi/description/blob/master/images/zenapi-process.png)
