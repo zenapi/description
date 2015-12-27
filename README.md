@@ -11,6 +11,7 @@ In Zen of API economy we combine efficient API life cycle management tools, stat
 
 ###In short Zen of API economy will MAXIMIZE
 * customer involvement
+* scalability
 * win-win situation for all
 * customer needs fit
 * service developer satisfaction and love towards your API
