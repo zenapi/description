@@ -1,5 +1,7 @@
 #Zen of API Economy
 
+[![Join the chat at https://gitter.im/zenofapi/description](https://badges.gitter.im/zenofapi/description.svg)](https://gitter.im/zenofapi/description?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Zen API](https://raw.githubusercontent.com/zenofapi/description/master/images/zen-api-logo.png)
 
 Creating low-barrier, compact, customer need fit and easy to use APIs requires combination of tech and business skills. Anyone can create API with current tools available, but it's harder to **make your API profitable, attractive and loved by developers**.  
